@@ -1,0 +1,8 @@
+FirstName,ContactNumber,ContactGroup,DOB,LastName,Email,Organization,EthnicGroup,Gender
+James,11110000,PGrp P_L_1,1980-08-12,Green,jg@gmail.com,Demo Org,Chinese,Male
+Darlie,11110001,PGrp P_L_1,1980-08-12,Smith,ds@gmail.com,Demo Org,Chinese,Male
+Jacky,11110002,PGrp P_L_1,1980-08-12,London,jl@gmail.com,Demo Org,Chinese,Male
+Dramble,11110003,PGrp P_L_1,1980-08-12,Punk,dp@gmail.com,Demo Org,Chinese,Male
+Thomas,11110004,PGrp P_L_1,1980-08-12,Lee,tl@gmail.com,Demo Org,Chinese,Male
+Lucy,11110005,PGrp P_L_2,1980-08-12,Liu,ll@gmail.com,Demo Org,Chinese,Female
+Lily,11110006,PGrp P_L_2,1980-08-12,Sun,ls@gmail.com,Demo Org,Chinese,Female

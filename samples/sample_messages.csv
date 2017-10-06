@@ -1,0 +1,5 @@
+SendOnDateTime,MessageContact,ContactGroupToSend
+2012-08-12 12:14:00,"Hello Message 1",PGrp P_L_1
+2012-08-12 13:30:00,"Hello Message 2",PGrp P_L_1
+2012-08-11 11:30:00,"Hello Message 3",PGrp P_L_1
+2012-08-10 11:45:00,"Hello Message 4",PGrp P_L_2

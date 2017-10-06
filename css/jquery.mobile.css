@@ -1,0 +1,408 @@
+@media all and (min-width: 600px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:40%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:72%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+@media all and (min-width: 700px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:41.3%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:73.3%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+@media all and (min-width: 800px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:41.8%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:73.8%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+@media all and (min-width: 1000px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:42.6%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:74.6%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+@media all and (min-width: 1100px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:43.6%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:75.6%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+@media all and (min-width: 1280px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:44.6%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:76.6%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+
+@media all and (min-width: 1460px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:45%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:77%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+@media all and (min-width: 1560px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:45.3%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:77.3%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+
+@media all and (min-width: 1660px)
+{
+	.left-content{
+		float:left;
+		width:20%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+
+	.middle-content{
+		float:left;
+		width:30%;
+		text-align:left;
+		margin-right: 35px;
+		min-height: 600px;
+	}
+	
+	.right-content{
+		float:right;
+		width:45.7%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.right-content2{
+		float:right;
+		width:77.8%;
+		text-align:left;
+		min-height: 600px;
+	}
+	
+	.mailbox{
+	    background: #e5e5e5;
+	}
+	
+	.mail_body{
+		min-height:220px;
+	}
+	
+	.mail_rec{
+		min-height:50px;
+	}
+}
+
+
